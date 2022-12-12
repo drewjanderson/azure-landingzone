@@ -16,6 +16,6 @@ variable "adminpassword" {
   type = string
 }
 
-variable "publicipaddress" {
-  type = string
-}
+# variable "publicipaddress" {
+#   type = string
+# }
